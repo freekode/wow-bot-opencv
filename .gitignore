@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -102,3 +103,23 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.DS_Store
+.pio
+.vscode
+.idea
+cmake-build-debug
+target*
+*.iml
+node_modules*
+*.DS_Store
+package-lock.json
+.classpath
+.project
+.settings
+venv
+*.pyc

@@ -1,0 +1,1 @@
+from .bobberfinder import BobberFinder
