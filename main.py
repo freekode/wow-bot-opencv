@@ -12,7 +12,8 @@ window_resolution = 2048, 1280
 fishing_region_size = 500, 300, 500 + 1048, 300 + 600
 templates = ['templates/template.png', 'templates/template1.png',
              'templates/template2.png', 'templates/template3.png',
-             'templates/template4.png', 'templates/template5.png']
+             'templates/template4.png', 'templates/template5.png',
+             'templates/template6.png']
 threshold = 0.70
 fishing_time_sec = 30
 
