@@ -52,7 +52,7 @@ def fishing(player, bobber_finder):
             return
 
         print('bobber ' + str(new_bobber_coordinates))
-        time.sleep(0.3)
+        time.sleep(0.25)
 
 
 def get_initial_bobber(bobber_finder, player):
